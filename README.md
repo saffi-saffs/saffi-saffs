@@ -7,7 +7,7 @@
 <p align="left">  </p>
 
 
-- 🔭 I’m currently working on **r**
+
 
 - 🌱 I’m currently learning **React-native,Laravel framework**
 
