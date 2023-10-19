@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Find me on:</h3>
-<img src="https://github.com/saffi-saffs/saffi-saffs/blob/main/laptop.gif"align="right" autoplay=true>
+<img src="https://github.com/saffi-saffs/saffi-saffs/blob/main/laptop.gif"align="right" autoplay=true width=450px>
 <p align="left">
 <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
   <a href="mailto:saffimaharjan@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="80px" ></a>
