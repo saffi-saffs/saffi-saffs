@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Saffi</h1>
-<h3 align="center">👨‍💻 Computer Science & IT Student |Eager to Grow as an Aspiring Developer 🖥️</h3>
+
 
 
 
